@@ -1,17 +1,40 @@
-GeschiedenisInformatica
-=======================
+Geschiedenis van de Informatica
+===============================
 
-Geschiedenis van de Informatica (B-KUL-G0K34A)
+Examenvragen voor het vak Geschiedenis van de Informatica (B-KUL-G0K34A)
 
-## Photos
+## PDF
+[InTeXration](https://github.com/JDevlieghere/InTeXration) genereert automatisch de recentste versie van de documenten in deze repository.
 
-Courtesy of Ben Lefevere
+ - [PDF](http://intexration.jonasdevlieghere.com:8000/pdf/JDevlieghere/GeschiedenisInformatica/main)
+ - [Log](http://intexration.jonasdevlieghere.com:8000/log/JDevlieghere/GeschiedenisInformatica/main)
 
-## Collaborators
+## Structuur
 
-Alphabetically ordered list of collaborators. Please don't forget to add your name here!
+Gelieve vragen en antwoorden als volgt te structuren.
+
+```tex
+\subsection{Titel met Hoofdletters}
+\begin{question}
+De vraag
+\end{question}
+
+\begin{solution}
+Het antwoord
+\end{solution}
+```
+
+## Bijdrages
+
+Een alfabetisch geordende lijst met personen die hebben bijgedragen aan het document. Vergeet vooral uw naam niet toe te voegen aan deze lijst en het document.
 
  - Ben Lefevere
+ - Jonas Devlieghere
  - Michiel Meersmans
+<<<<<<< HEAD
  - Tim Van den Eynde
  - Stefan Pante
+=======
+ - Stefan Pante
+ - Tim Van den Eynde
+>>>>>>> 7f1328deb95b77ef971c376a3873a0080c233d62
