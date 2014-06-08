@@ -29,8 +29,8 @@ Het antwoord
 Een alfabetisch geordende lijst met personen die hebben bijgedragen aan het document. Vergeet vooral uw naam niet toe te voegen aan deze lijst en het document.
 
  - Ben Lefevere
- - Jonas Devlieghere
+ - [Dieter Castel](https://github.com/DieterCastel)
+ - [Jonas Devlieghere](https://github.com/JDevlieghere)
  - Michiel Meersmans
  - Tim Van den Eynde
- - Stefan Pante
-
+ - [Stefan Pante](https://github.com/StefanPante)
