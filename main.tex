@@ -1,0 +1,66 @@
+\documentclass[11pt]{article}
+
+% Essential
+\usepackage[USenglish,american]{babel}
+
+% Optional
+\usepackage[hidelinks]{hyperref}
+\usepackage{amsmath,amsthm,amsfonts,amssymb}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{multicol}
+\usepackage{float}
+\usepackage{subfiles}
+\usepackage{makeidx}
+
+%\usepackage[printwatermark]{xwatermark}
+%\newwatermark[allpages,color=gray!50,angle=45,scale=3,xpos=0,ypos=0]{DRAFT}
+
+% Titleplage
+\title{MGeschiedenis van de Informatica \\ (B-KUL-G0K34A)}
+\date{\today}
+\author{Jonas Devlieghere}
+
+\setlength\parindent{0pt}
+\graphicspath{{figures/}{../figures/}}
+\makeindex
+
+\begin{document}
+
+
+% Title Page
+\maketitle
+
+% Table of Contents Page
+\tableofcontents
+
+\newpage
+
+\section{Geschiedenis}
+\subfile{subfiles/geschiedenis.tex}
+
+\section{Theorie van Berekenen}
+
+\section{Artificiële Intelligentie}
+
+\section{Geschiedenis van het Internet}
+
+\section{Informatica en Samenleving}
+
+\section{Natuurlijke Taalverwerking}
+
+\section{Scientific computing}
+
+% Appendix
+\appendix
+
+
+% Index
+\printindex
+
+% References
+\bibliographystyle{plain}
+\bibliography{main}
+\nocite{*}
+
+\end{document}
