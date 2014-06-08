@@ -14,3 +14,4 @@ Alphabetically ordered list of collaborators. Please don't forget to add your na
  - Ben Lefevere
  - Michiel Meersmans
  - Tim Van den Eynde
+ - Stefan Pante
