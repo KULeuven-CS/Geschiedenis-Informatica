@@ -3,14 +3,27 @@ GeschiedenisInformatica
 
 Geschiedenis van de Informatica (B-KUL-G0K34A)
 
-## Photos
+## Structuur
 
-Courtesy of Ben Lefevere
+Gelieve vragen en antwoorden als volgt te structuren.
 
-## Collaborators
+```tex
+\subsection{Titel met Hoofdletters}
+\begin{question}
+De vraag
+\end{question}
 
-Alphabetically ordered list of collaborators. Please don't forget to add your name here!
+\begin{solution}
+Het antwoord
+\end{solution}
+```
+
+## Bijdrages
+
+Een alfabetisch geordende lijst met personen die hebben bijgedragen aan het document. Vergeet vooral uw naam niet toe te voegen aan deze lijst en het document.
 
  - Ben Lefevere
+ - Jonas Devlieghere
  - Michiel Meersmans
+ - Stefan Pante
  - Tim Van den Eynde
