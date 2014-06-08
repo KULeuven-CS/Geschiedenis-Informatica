@@ -3,6 +3,12 @@ GeschiedenisInformatica
 
 Geschiedenis van de Informatica (B-KUL-G0K34A)
 
+## PDF
+[InTeXration](https://github.com/JDevlieghere/InTeXration) genereert automatisch de recentste versie van de documenten in deze repository.
+
+ - [PDF](http://intexration.jonasdevlieghere.com:8000/pdf/JDevlieghere/GeschiedenisInformatica/main)
+ - [Log](http://intexration.jonasdevlieghere.com:8000/log/JDevlieghere/GeschiedenisInformatica/main)
+
 ## Structuur
 
 Gelieve vragen en antwoorden als volgt te structuren.
