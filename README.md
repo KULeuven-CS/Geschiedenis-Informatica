@@ -29,12 +29,8 @@ Het antwoord
 Een alfabetisch geordende lijst met personen die hebben bijgedragen aan het document. Vergeet vooral uw naam niet toe te voegen aan deze lijst en het document.
 
  - Ben Lefevere
+ - Dieter Castel
  - Jonas Devlieghere
  - Michiel Meersmans
-<<<<<<< HEAD
  - Tim Van den Eynde
  - Stefan Pante
-=======
- - Stefan Pante
- - Tim Van den Eynde
->>>>>>> 7f1328deb95b77ef971c376a3873a0080c233d62
