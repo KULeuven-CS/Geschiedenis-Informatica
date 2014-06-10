@@ -1,40 +1,87 @@
 \documentclass[../main.tex]{subfiles}
 \begin{document}
 
-\subsection{Vraag 1}
+\subsection{Evolutie \& Innovaties}
 \begin{question}
 Schets de evolutie van de natuurlijke taalverwerking over de voorbije decennia aan de hand van belangrijke innovaties. Wat zijn de sturende factoren in deze evolutie? Illustreer met voorbeelden.
 Zijn er parallelle evoluties waar te nemen in andere domeinen van de informatica?
 \end{question}
 
-\subsection{Vraag 2}
+\subsection{Automatisch Vertalen}
 \begin{question}
-Schets de evolutie van het automatisch vertalen van de natuurlijke taal over de voorbije decennia aan de hand van belangrijke innovaties. Wat zijn de sturende factoren in deze evolutie? Illustreer met voorbeelden.
+Schets de evolutie van het \textbf{automatisch vertalen} van de natuurlijke taal over de voorbije decennia aan de hand van belangrijke innovaties.
+Wat zijn de sturende factoren in deze evolutie?
+Illustreer met voorbeelden.
+\end{question}
+\begin{solution}
+\begin{itemize}
+	\item Hoewel automatisch vertalen is al lang een droom blijven doorbraken uit tot na de tweede wereldoorlog. In de 17e eeuw beschikte men al over talen om correct te redeneren en werd een mechanisch woordenboek gesuggereerd.
+	\item Warren Weaver suggereert in 1949 om statistiek en cryptografische technieken uit de tweede wereldoorlog toe te passen om de onderliggende logica en universele kenmerken van de taal te exploreren. Als snel worden enerzijds statistische, empirische benaderingen (beperkt computerkracht) gebruikt en anderzijds fundamentele linguïstische benaderingen (logica, informatietheorie).
+	\item De \textbf{koude oorlog} zorgt ervoor dat zowel in de VS als in Rusland de aandacht voor het automatisch vertalen van en naar het Russisch toeneemt. De oprichting van de \textbf{Europese Economische Gemeenschap} in 1957 creëert noodzaak voor automatisch met onderzoek in verschillende Europese universiteit tot gevolg.
+	\item In 1967 verschijnt een vernietigend rapport van van de \textbf{ALPAC} (Automatic Language Processing Advisory Committee) dat stelt dat automatisch vertalen te veel \emph{post-processing} vraagt. Dit leidt tot een stille decade.
+	\item In 1978 ging het ambitieuze \textbf{Eurotra} project van de Europese Commissie van start. Theoretisch lingu\"istisch en computationeel lingu\"istisch onderzoek met kennisgebaseerde en interlingua technieken. Er werd echter niet in geslaagd een werkend prototype te leveren en de industri\"ele partnerschappen wierpen geen vruchten af.
+	\item Eind jaren `80 onstaat \textbf{Statistical Machine Translation} (SMT). Dit maakt gebruik van het aligneren van woorden, frasen en zinnen in parallel corpus en het toepassen van geavanaceerde statische methoden hierop. Een voorbeeld van dergelijke corpus zijn de Canadese parlementaire documenten (Engels-Frans). Peter Brown (IBM) publiceert deen dergelijk systeem 1988 wat resulteert in het zeer invloedrijke \textbf{Candide} systeem. De komende jaren volgen nog verschillende toolkits (\textbf{EGYPT}, \textbf{Moses}). Een grote mijlpaal is het commercieel statistisch MT systeem van Google in 2007.
+\end{itemize}
+\end{solution}
+
+\subsection{Automatisch Verstaan}
+\begin{question}
+Schets de evolutie van het \textbf{automatisch verstaan} van de natuurlijke taal over de voorbije decennia aan de hand van belangrijke innovaties.
+Wat zijn de sturende factoren in deze evolutie?
+Illustreer met voorbeelden.
 \end{question}
 
-\subsection{Vraag 3}
-\begin{question}
-Schets de evolutie van het automatisch \textbf{verstaan} van de natuurlijke taal over de voorbije decennia aan de hand van belangrijke innovaties. Wat zijn de sturende factoren in deze evolutie? Illustreer met voorbeelden.
-\end{question}
+\begin{solution}
+\begin{itemize}
+	\item Het verstaan van tekst begon halfweg de jaren `60 met \textbf{informatie-extractie}: het herkennen van patronen. In tegenstelling tot vandaag, waar deze patronen automatisch geleerd worden, werden deze toen nog met de hand opgesteld.
+	\item In dezelfde periode ontstaat \textbf{Elize} door de hand van Joseph Weizenbaum (MIT). Eliza was het eerste  programma dat in staat was een dialoog te voeren. Aan de hand van patronen werd de input naar output vertaald.
+	\item Begin jaren `70 introduceert Roger Schank \textbf{conceptual dependency theory}. Deze theorie herkent een aantal primitieven en predicaten in een taal. Zinnen kunnen zo worden voorgesteld als acties met argumenten en omstandigheden. Dit laat toe zinnen te rangschikken in een script. Deze ontwikkeling heeft nog steeds een grote invloed op de huidige semantisch analyse van tekst.
+	\item Terry Winograd ontwikkelt \textbf{SHRDLU}, een van de eerste vraag-antwoordsystemen. Het voorziet scripts, plannen, goals en semantische rollen voor het verwerken van complexe bevelen in de natuurlijke taal. Zeer invloedrijk op het gebied van robotica.
+\end{itemize}
+De stimulansen waren voornamelijk competities (MUC, ACE, TAC), waarvan verscheidene werden gefinancierd door het Amerikaanse \emph{National Institute of Standards and Technology} (NIST). Een ander motief was het extracten van kennis uit biomedische teksten (economisch) en het aanleggen van automatisch kennisbanken na 9/11 (politiek).
+\end{solution}
 
-\subsection{Vraag 4}
+\subsection{Multidisciplinair Onderzoeksgebied}
 \begin{question}
 Leg uit waarom natuurlijke taalverwerking als een multidisciplinair onderzoeksgebied wordt beschouwd.
 \end{question}
+\begin{solution}
+Natuurlijke taalverwerking is een multidisciplinair omdat het aspecten combineert van computerwetenschappen, elektrotechniek, statistiek en lingu\"istiek.
+\end{solution}
 
-\subsection{Vraag 5}
+\subsection{Empirisme}
 \begin{question}
 Wat is empirisme? Verklaar aan de hand van een voorbeeld uit de natuurlijke taalverwerking.
 \end{question}
 
-\subsection{Vraag 6}
+\begin{solution}
+Empirisme is de veronderstelling dat kennis voortkomt uit proefondervindelijke ervaringen.
+Vanuit het standpunt van natuurlijke taalverwerking betekent dit dat de focus ligt op data-gedreven modellen die worden gevalideerd aan de hand van \emph{held-out} datasets.
+Het schoolvoorbeeld is \emph{IBM Watson}, een computer die in spreektaal gestelde vragen beantwoordt aan de hand van een verzameling (on)gestructureerde informatie.
+\end{solution}
+
+\subsection{Noam Chomsky}
 \begin{question}
-Wat zijn de bijdragen van Noam Chomsky voor de natuurlijke taalverwerking? Evalueer kritisch deze bijdragen.
+Wat zijn de bijdragen van Noam Chomsky voor de natuurlijke taalverwerking?
+Evalueer kritisch deze bijdragen.
 \end{question}
 
-\subsection{Vraag 7}
+\begin{solution}
+Noam Chomsky schreef als professor aan MIT verschillende invloedrijke artikels die leidde tot de conclusie dat statische modellen niet in staat zijn om een volledig cognitief model van menselijke grammaticale kennis te genereren.
+Zijn theorie veronderstelt dat taalvermogen is aangeboren.
+Hij staat vooral gekend voor zijn bijdrage tot de formele taaltheorie met het ontwikkelen van \textbf{contextvrije grammatica} en \textbf{generatieve grammatica}. Deze laatste beïnvloedde onder meer \emph{head-driven phrase structure grammar}, \emph{generalized phrase structure grammar}, \emph{lexical functional grammar} en \emph{combinatory categorial grammar}.
+\end{solution}
+
+\subsection{IBM \& Google}
 \begin{question}
-Wat is de rol van grote bedrijven zoals IBM of Google in de ontwikkeling van taaltechnologie in het verleden en vandaag? Welke voordelen hebben deze bedrijven in vergelijking met kennisinstellingen?
+Wat is de rol van grote bedrijven zoals IBM of Google in de ontwikkeling van taaltechnologie in het verleden en vandaag?
+Welke voordelen hebben deze bedrijven in vergelijking met kennisinstellingen?
 \end{question}
+\begin{solution}
+Beide bedrijven zijn zeer invloedrijk wat betreft statistische machinevertaling.
+IBM publiceert in 1988 resultaten van een puur statistisch gebaseerd vertaalsysteem. Enekele jaren laten ontwikkelt en patenteert het Candide, dat een zeer grote invloed heeft gehad.
+Google integreert in 2007 een commercieel statistisch MT systeem in Google Translate.
+Ze hebben als voordeel dat ze over een veel groter budget beschikken dan de doorsnee kennisinstelling.
+\end{solution}
 
 \end{document}
