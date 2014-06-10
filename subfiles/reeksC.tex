@@ -95,5 +95,40 @@ Hoe zijn programmeren en software engineering geëvolueerd?
 \subsubsection{Evolutie Programmeertalen}
 \begin{question}
 Schets de evolutie van de verschillende soorten programmeertalen aan de hand van het bijgevoegd (vereenvoudigd) overzicht. (Zie foto's voor overzicht)
+\begin{figure}
+		\centering
+		\includegraphics{overzicht_talen.png}
+		\caption{(Vereenvoudigd) overzicht van de evolutie van programeertalen.}
+\end{figure}
 \end{question}
+\begin{solution}
+Initieel bestaat er enkel het imperatieve paradigma hiervoor werd er enkel in assembler of machinecode geprogrammeerd.
+Initieel werden er specifieke talen ontwikkeld voor specifieke hardware.
+
+Fortran I (1957) is de eerste taal met een geoptimaliseerde compiler. 
+De taal werd initieel ontworpen voor de IBM 704 en komt hierdoor aan zijn typerende eigenschappen.
+Zo was er toen nog geen nood aan dynamische opslag, string handling of geavanceerde input/output.
+Wat wel essentieel was was het behandelen van lijsten en tellende lussen waarin Fortran uitblonk.
+
+Fortran had nog maar net zijn intrede gedaan of ALGOL werd reeds ontwikkeld.
+Dit was een joint effort om een portable taal te maken en ook om communicatie tussen algoritmes mogelijk te maken. 
+ALGOL 58 was slechts een theoretische beschrijving en was nog niet bedoeld om geimplementeerd te worden.
+Er was geen I/O ondersteuning maar wel een hele lijst instructies die we tot op de dag van vandaag gebruiken.
+\begin{enumerate}
+		\item data types (conceptueel)
+		\item subscripts binnen [haakjes]
+		\item else-if
+		\item puntkomma (;) als statement seperator  
+\end{enumerate}
+ALGOL 60 was wel klaar voor implementatie en werd een enorm succes ondanks het feit dat IBM ALGOL vrij snel liet vallen.
+Nog steeds werd er geen I/O ondersteund maar de taal werd wel uitgebreid met, opnieuw, elementen die we in veel hedendaagse talen terugvinden:
+\begin{enumerate}
+		\item Blok structuur (lokale scope) 
+		\item parameter passing: by value and by reference 
+		\item recursie 
+\end{enumerate}
+20 jaar lang was ALGOL 60 de standaard om nieuwe algoritmes in te publiceren.
+
+\end{solution}
+
 \end{document}
