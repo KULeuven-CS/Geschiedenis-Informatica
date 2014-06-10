@@ -12,7 +12,6 @@ technologische vernieuwingen.
 \end{question}
 
 \begin{solution}
-\paragraph{Meetkunde}
 De Griekse wiskundigen hielden zich bezig met meetkunde. Vooral met het aspect
 wat men kan construeren aan de hand van bijvoorbeeld een passer en liniaal,
 passer en meetstok,... Men was ge\"interesseerd welke rekenkundige operaties
@@ -21,10 +20,7 @@ men kon uitvoeren op een getallenlijn.
 Met behulp van een passer en liniaal kan men optellen, aftrekken, vermenigvuldigen
 en delen. Het is echter onmogelijk om een hoek in drie te delen, een kubus uit
 een kubus te construeren met dubbele oppervlakte en de kwadratuur van een cirkel
-te construeren. Het duurde echter tot midden de 19e eeuw dat dit bewezen werd. Lange
-tijd is dan ook intensief gezocht naar methodes om deze problemen alsnog op te lossen.
-
-\paragraph{Algoritmen}
+te construeren. Het duurde echter tot midden de 19e eeuw dat dit bewezen werd.
 \end{solution}
 
 
@@ -33,7 +29,10 @@ tijd is dan ook intensief gezocht naar methodes om deze problemen alsnog op te l
 Schets de oorsprong en de evolutie van computationele complexiteitsleer in de 20ste
 eeuw.
 \end{question}
+
 \begin{solution}
 	
 \end{solution}
+
+
 \end{document}
