@@ -92,3 +92,5 @@ sympy-plots-for-*.tex/
 *.backup
 *~
 *.*~*
+*.kate-swp
+*.*-swp
