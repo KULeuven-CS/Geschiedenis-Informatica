@@ -1,13 +1,13 @@
 Geschiedenis van de Informatica
 ===============================
 
-Examenvragen voor het vak Geschiedenis van de Informatica (B-KUL-G0K34A)
+Examenvragen voor het vak [Geschiedenis van de Informatica (B-KUL-G0K34A)](http://onderwijsaanbod.kuleuven.be/syllabi/n/G0K34AN.htm)
 
 ## PDF
 [InTeXration](https://github.com/JDevlieghere/InTeXration) genereert automatisch de recentste versie van de documenten in deze repository.
 
- - [PDF](http://intexration.jonasdevlieghere.com:8000/pdf/JDevlieghere/GeschiedenisInformatica/main)
- - [Log](http://intexration.jonasdevlieghere.com:8000/log/JDevlieghere/GeschiedenisInformatica/main)
+ - [PDF](http://intexration.jonasdevlieghere.com:8000/pdf/KULeuven-CS/GeschiedenisInformatica/main)
+ - [Log](http://intexration.jonasdevlieghere.com:8000/log/KULeuven-CS/GeschiedenisInformatica/main)
 
 ## Structuur
 
@@ -29,9 +29,10 @@ Om geen dubbel werk te doen raden we je aan om een branch te maken met een goeie
 
 Een alfabetisch geordende lijst met personen die hebben bijgedragen aan het document. Vergeet vooral uw naam niet toe te voegen aan deze lijst en het document.
 
- - Ben Lefevere
+ - [Ben Lefevere](https://github.com/BenLefevere)
  - [Dieter Castel](https://github.com/DieterCastel)
  - [Jonas Devlieghere](https://github.com/JDevlieghere)
  - Michiel Meersmans
  - Tim Van den Eynde
  - [Stefan Pante](https://github.com/StefanPante)
+ - [Willem Van Onsem](https://github.com/KommuSoft)
