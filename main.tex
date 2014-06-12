@@ -7,9 +7,12 @@
 
 % Titleplage
 \title{Geschiedenis van de Informatica \\ (B-KUL-G0K34A)}
-\date{\today}
 
-\author{Ben Lefevere \\ Dieter Castel \\ Jonas Devlieghere \\ Michiel Meersmans \\ Tim Van den Eynde \\  Stefan Pante \\ Willem Van Onsem }
+\newcommand{\theauthors}{Dieter Castel \\ Jonas Devlieghere \\ Stefan Pante}
+\newcommand{\thecontributors}{Ben Lefevere \\ Michiel Meersmans \\ Tim Van den Eynde \\  Willem Van Onsem }
+
+\date{\today}
+\author{\theauthors}
 
 \setlist[description]{style=nextline}
 \setlength\parindent{0pt}
@@ -25,7 +28,40 @@
 
 
 % Title Page
-\maketitle
+
+\begin{titlepage}
+
+\thispagestyle{empty}
+
+\begin{minipage}{\textwidth}
+	\includegraphics[width=60mm]{logokuleng.pdf}
+\end{minipage}
+
+\vspace{40mm}
+
+\begin{minipage}{\textwidth}
+	\Huge
+	\sffamily
+	\thetitle
+\end{minipage}
+
+\vspace{50mm}
+
+\hfill
+\begin{minipage}{0.3\textwidth}
+\begin{flushright}
+	\Large
+	\sffamily
+	\textbf{Auteurs} \\
+	\theauthor
+	\vspace{10mm} \\
+	\textbf{Bijdragers} \\
+	\thecontributors
+\end{flushright}
+\end{minipage}
+\vfill
+\end{titlepage}
+
 \newpage
 
 % Table of Contents Page
