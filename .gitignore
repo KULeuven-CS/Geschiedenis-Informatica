@@ -87,3 +87,11 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+#Backup and temps
+*.backup
+*~
+*.*~*
+*.kate-swp
+*.*-swp
+*/Thumbs.db
