@@ -1,1 +1,9 @@
-[main]
+{
+  "documents": [
+    {
+      "name": "main",
+      "dir": "/",
+      "bib": "main.bib"
+    }
+  ]
+}
