@@ -4,10 +4,8 @@ Geschiedenis van de Informatica
 Examenvragen voor het vak [Geschiedenis van de Informatica (B-KUL-G0K34A)](http://onderwijsaanbod.kuleuven.be/syllabi/n/G0K34AN.htm)
 
 ## PDF
-[InTeXration](https://github.com/JDevlieghere/InTeXration) genereert automatisch de recentste versie van de documenten in deze repository.
 
- - [PDF](http://intexration.com/file/KULeuven-CS/GeschiedenisInformatica/main/pdf)
- - [Log](http://intexration.com/file/KULeuven-CS/GeschiedenisInformatica/main/log)
+[![PDF Status](https://www.sharelatex.com/github/repos/KULeuven-CS/GeschiedenisInformatica/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/KULeuven-CS/GeschiedenisInformatica/builds/latest/output.pdf)
 
 ## Structuur
 
