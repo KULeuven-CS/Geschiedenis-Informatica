@@ -7,6 +7,8 @@ Examenvragen voor het vak [Geschiedenis van de Informatica (B-KUL-G0K34A)](http:
 
 [![PDF Status](https://www.sharelatex.com/github/repos/KULeuven-CS/GeschiedenisInformatica/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/KULeuven-CS/GeschiedenisInformatica/builds/latest/output.pdf)
 
+Please **star** this repository if you found its content useful!
+
 ## Structuur
 
 Gelieve vragen en antwoorden als volgt te structuren.
